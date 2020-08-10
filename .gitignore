@@ -1,0 +1,5 @@
+bindata.go
+utils
+.DS_Store
+.idea
+go.sum
